@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "21232f297a57a5a743894a0e4a801fc3",
+      "hwid": "*",
+      "expire_date": "2025-12-31",
+      "rank": "Owner"
+    },
+    {
+      "username": "usuario1",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+      "hwid": "abc123def456",
+      "expire_date": "2025-06-30",
+      "rank": "Premium"
+    },
+    {
+      "username": "usuario2",
+      "password": "098f6bcd4621d373cade4e832627b4f6",
+      "hwid": "*",
+      "expire_date": "2026-01-01",
+      "rank": "VIP"
+    }
+  ]
+}
