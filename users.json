@@ -1,6 +1,16 @@
 {
-  "users": [
-    { "username": "thur", "password": "thur123" },
-    { "username": "lopes", "password": "lopes123" }
-  ]
+  "users": {
+    "lopes": {
+      "password": "davilp123"
+    },
+    "thur": {
+      "password": "thur123"
+    },
+    "sagax": {
+      "password": "sagax123"
+    },
+    "relog": {
+      "password": "relog123"
+    }
+  }
 }
