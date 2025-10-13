@@ -1,1 +1,40 @@
-Good Lucky! 😙😙
+{
+  "users": {
+    "lopes": {
+      "password": "FDPClient123!"
+    },
+    "thur": {
+      "password": "thur123"
+    },
+    "sagax": {
+      "password": "neguinhopvp"
+    },
+    "relog": {
+      "password": "daniel53"
+    },
+    "qck": {
+      "password": "kaykis123"
+    },
+    "kodak": {
+      "password": "123!"
+    },
+    "dxno": {
+      "password": "123!"
+    },
+    "saverox": {
+      "password": "123!"
+    },
+    "whiskey": {
+      "password": "123!"
+    },
+    "scrouley": {
+      "password": "pietro123"
+    },
+    "drakes": {
+      "password": "123!"
+    },
+    "miguel": {
+      "password": "123!"
+    }
+  }
+}
