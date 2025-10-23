@@ -1,22 +1,17 @@
 {
   "users": {
+    "admin": {
+      "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "role": "administrator",
+      "created": "2024-01-01"
+    },
+    "user1": {
+      "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "role": "user",
+      "created": "2024-01-15"
+    },
     "lopes": {
-      "password": "123",
-      "role": "user",
-      "created": "2025-10-23"
-    },
-    "thur": {
-      "password": "d0820feb53a9d2b6c0e24bb277c370362c474c9093c9e94c53551299333694e1",
-      "role": "user",
-      "created": "2025-10-23"
-    },
-    "sagax": {
-      "password": "c5b1e6fa55fae3373d43531aed16208f8b58b34453b6c3592f65ca675df7da78",
-      "role": "user",
-      "created": "2025-10-23"
-    },
-    "relog": {
-      "password": "aa9a7f64ce4f0753ce57e5684a6658383d045d4bcce5b4c981a29591ab789c4e",
+      "password": "86431c42601c2052f5da815a16dda74e9cd40e9646e9733d66fa06c67fbfb367",
       "role": "user",
       "created": "2025-10-23"
     }
