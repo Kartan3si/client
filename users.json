@@ -1,16 +1,30 @@
 {
   "users": {
     "lopes": {
-      "password": "FDPClient123!"
+      "password": "563357be33259b62acdd9ee7e6fde689eaf4785ca390958d4cf8ca3b239e6421",
+      "role": "user",
+      "created": "2025-10-23"
     },
     "thur": {
-      "password": "thur123!"
-    },
-    "relog": {
-      "password": "daniel53"
+      "password": "d0820feb53a9d2b6c0e24bb277c370362c474c9093c9e94c53551299333694e1",
+      "role": "user",
+      "created": "2025-10-23"
     },
     "sagax": {
-      "password": "neguinhopvp"
+      "password": "c5b1e6fa55fae3373d43531aed16208f8b58b34453b6c3592f65ca675df7da78",
+      "role": "user",
+      "created": "2025-10-23"
+    },
+    "relog": {
+      "password": "aa9a7f64ce4f0753ce57e5684a6658383d045d4bcce5b4c981a29591ab789c4e",
+      "role": "user",
+      "created": "2025-10-23"
     }
+  },
+  "config": {
+    "version": "2.0",
+    "hash_algorithm": "SHA-256",
+    "iterations": 10000,
+    "salt": "J3ULT1M4T3_S4LT_2024"
   }
 }
