@@ -14,6 +14,11 @@
       "password": "86431c42601c2052f5da815a16dda74e9cd40e9646e9733d66fa06c67fbfb367",
       "role": "user",
       "created": "2025-10-23"
+    },
+    "lopestest": {
+      "password": "2d4b9ed3180bf9b6ea11efd5e6f07a45901000d6bcc5e38c68b36fcd6ffa477b",
+      "role": "user",
+      "created": "2025-10-23"
     }
   },
   "config": {
